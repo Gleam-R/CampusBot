@@ -326,7 +326,7 @@ screenshots/
 Then display it in the README:
 
 ```markdown
-![Campus-Bot Interface](screenshots/campus-bot.png)
+![Campus-Bot Interface](screenshots/campus-bot.jpeg)
 ```
 
 ## 📚 What I Learned
