@@ -316,15 +316,6 @@ Make sure the paths to these files are configured correctly for the local enviro
 
 ### Chat Interface
 
-Add a screenshot of the Campus-Bot interface here:
-
-```text
-screenshots/
-└── campus-bot.png
-```
-
-Then display it in the README:
-
 ```markdown
 ![Campus-Bot Interface](screenshots/campus-bot.jpeg)
 ```
