@@ -316,9 +316,7 @@ Make sure the paths to these files are configured correctly for the local enviro
 
 ### Chat Interface
 
-```markdown
-![Campus-Bot Interface](screenshots/campus-bot.jpeg)
-```
+>![Campus-Bot Interface](screenshots/campus-bot.jpeg)
 
 ## 📚 What I Learned
 
